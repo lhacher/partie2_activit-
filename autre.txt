@@ -1,1 +1,2 @@
 ceci est la première phrase du premier commit effectué 
+modification effectué pour finir l'activité
